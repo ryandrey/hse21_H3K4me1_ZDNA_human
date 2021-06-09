@@ -35,3 +35,13 @@
 ![alt text](https://github.com/ryandrey/hse21_H3K4me1_ZDNA_human/blob/main/images/chip_seeker.H3K4me1_HeLa-S3.ENCFF952QRP.hg19.filtered.plotAnnoPie.png)
 
 ### Объединение двух наборов отфильтрованных ChIP-seq пиков с помощью утилиты bedtools merge.
+
+## Анализ вторичной структуры ДНК
+
+![alt text](https://github.com/ryandrey/hse21_H3K4me1_ZDNA_human/blob/main/images/len_hist.DeepZ.png)
+
+![alt text](https://github.com/ryandrey/hse21_H3K4me1_ZDNA_human/blob/main/images/chip_seeker.DeepZ.plotAnnoPie.png)
+
+## Анализ пересечений гистоновой метки и структуры ДНК
+
+![alt text](https://github.com/ryandrey/hse21_H3K4me1_ZDNA_human/blob/main/images/len_hist.H3K4me1_HeLa-S3.intersect_with_DeepZ.png)
