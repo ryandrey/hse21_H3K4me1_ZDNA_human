@@ -113,6 +113,6 @@ session name: hse21_H3K4me1_ZDNA_human
 
 ## Ассоциация с ближайщими генами и GO-анализ
 
-Количество уникальных генов - 891
+Количество уникальных генов - 841
 
 ![alt text](https://github.com/ryandrey/hse21_H3K4me1_ZDNA_human/blob/main/images/Screenshot%20from%202021-06-10%2003-26-06.png)
