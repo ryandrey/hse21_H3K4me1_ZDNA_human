@@ -76,6 +76,8 @@ track visibility=dense name="ChIP_merge"  color=50,50,200   description="H3K4me1
 
 https://raw.githubusercontent.com/ryandrey/hse21_H3K4me1_ZDNA_human/main/data/H3K4me1_HeLa-S3.merge.hg19.bed
 
+![alt text](https://github.com/ryandrey/hse21_H3K4me1_ZDNA_human/blob/main/images/Screenshot%20from%202021-06-10%2003-29-04.png)
+
 
 ## Анализ вторичной структуры ДНК
 
@@ -103,6 +105,18 @@ track visibility=dense name="intersect_with_DeepZ"  color=200,0,0  description="
 
 https://raw.githubusercontent.com/ryandrey/hse21_H3K4me1_ZDNA_human/main/data/H3K4me1_HeLa-S3.intersect_with_DeepZ.bed
 
+![alt text](https://github.com/ryandrey/hse21_H3K4me1_ZDNA_human/blob/main/images/Screenshot%20from%202021-06-10%2003-47-46.png)
+
+![alt text](https://github.com/ryandrey/hse21_H3K4me1_ZDNA_human/blob/main/images/Screenshot%20from%202021-06-10%2003-51-47.png)
+
+Найти сессию можно по
+
+user: aoryabinin
+
+session name: hse21_H3K4me1_ZDNA_human
+
 ## Ассоциация с ближайщими генами и GO-анализ
 
+Количество уникальных генов - 891
 
+![alt text](https://github.com/ryandrey/hse21_H3K4me1_ZDNA_human/blob/main/images/Screenshot%20from%202021-06-10%2003-26-06.png)
