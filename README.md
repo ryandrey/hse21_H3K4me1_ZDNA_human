@@ -89,6 +89,7 @@ https://raw.githubusercontent.com/ryandrey/hse21_H3K4me1_ZDNA_human/main/data/H3
 
 ![alt text](https://github.com/ryandrey/hse21_H3K4me1_ZDNA_human/blob/main/images/len_hist.H3K4me1_HeLa-S3.intersect_with_DeepZ.png)
 
+![alt text](https://github.com/ryandrey/hse21_H3K4me1_ZDNA_human/blob/main/images/chip_seeker.H3K4me1_HeLa-S3.intersect_with_DeepZ.plotAnnoPie.png)
 
 ### Визуализация в геномнои браузере
 
